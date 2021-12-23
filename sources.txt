@@ -1,2 +1,9 @@
 https://jshingler.github.io/TOS-and-Thinkscript-Snippet-Collection/TOS%20&%20Thinkscript%20Collection.html#the-fold-function-explained
 https://usethinkscript.com/threads/convert-intraday-flag-indicator-to-python-need-help-confirming-a-thinkscript-line.6662/
+https://towardsdatascience.com/pivot-points-calculation-in-python-for-day-trading-659c1e92d323
+https://towardsdatascience.com/detection-of-price-support-and-resistance-levels-in-python-baedc44c34c9
+https://stackoverflow.com/questions/65892304/find-maxima-and-minima-within-data-and-append-true-false-to-corresponding-row
+https://stackoverflow.com/questions/48023982/pandas-finding-local-max-and-min/50836425#50836425
+https://wire.insiderfinance.io/pivot-point-calculation-using-python-1bd1e75f17e6
+https://medium.com/code-for-cause/calculating-resistance-and-pivot-points-with-python-caffbad46715
+
