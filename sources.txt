@@ -1,0 +1,2 @@
+https://jshingler.github.io/TOS-and-Thinkscript-Snippet-Collection/TOS%20&%20Thinkscript%20Collection.html#the-fold-function-explained
+https://usethinkscript.com/threads/convert-intraday-flag-indicator-to-python-need-help-confirming-a-thinkscript-line.6662/
