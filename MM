@@ -1,6 +1,8 @@
 # Measured Move (MM)
 # by EBtrader Jan 2017
 
+# https://usethinkscript.com/threads/thinkorswim-higher-high-lower-low-indicator.490/page-2
+
 input n = 8;
 input ShowLines = yes;
 
